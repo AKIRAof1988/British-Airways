@@ -25,7 +25,7 @@ Summary Presentation: Customize the PowerPoint template with your findings and c
 # Resources:
 https://www.kaggle.com/code/parulpandey/intrepreting-machine-learning-models
 
-Python environment with required libraries (specified in requirements.txt or environment.yml).
+Python environment with required libraries (specified in requirements.txt ).
 Jupyter Notebook for data exploration and Python scripts for model training and evaluation.
 
 # Author:

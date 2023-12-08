@@ -32,4 +32,4 @@ Jupyter Notebook for data exploration and Python scripts for model training and 
 Siddhant Ganvir
 Contact Information: sganvir204@gmail.com
 
-The PowerPoint summarizing the findings is included as 
+The PowerPoint summarizing the findings is included as Customer Bookings 
